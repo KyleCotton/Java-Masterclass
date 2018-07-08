@@ -9,8 +9,8 @@ public class Main {
 	System.out.println(myAnotherChar);
 
 	boolean myBoolean = false;
-	string myBooleanString = (string) myBoolean;
-	System.out.println(myBooleanString);
+	//String myBooleanString = (String) myBoolean;
+	//System.out.println(myBooleanString);
 	
     }
 
